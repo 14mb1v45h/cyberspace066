@@ -1,0 +1,41 @@
+
+C:\Users\Administrator\Desktop\WORKSPACE\R&D\image_resizer_tool>python main.py --width 1000 --height 1000 input_folder output_folder
+Resized: pasion.webp
+Resized: pasion1.png
+Resized: PHO -AUTH0.png
+
+Completed! Processed 3 images, 0 errors.
+
+C:\Users\Administrator\Desktop\WORKSPACE\R&D\image_resizer_tool>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 7060-6AD0
+
+ Directory of C:\Users\Administrator\Desktop\WORKSPACE\R&D\image_resizer_tool
+
+06-06-2025  07:56    <DIR>          .
+06-06-2025  08:03    <DIR>          ..
+06-06-2025  08:06    <DIR>          image_resizer
+06-06-2025  07:14    <DIR>          input_folder
+06-06-2025  08:07               971 main.py
+06-06-2025  08:07    <DIR>          output_folder
+06-06-2025  08:09             1,212 README.markdown
+               2 File(s)          2,183 bytes
+               5 Dir(s)  396,232,581,120 bytes free
+
+C:\Users\Administrator\Desktop\WORKSPACE\R&D\image_resizer_tool>cd output_folder
+
+C:\Users\Administrator\Desktop\WORKSPACE\R&D\image_resizer_tool\output_folder>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 7060-6AD0
+
+ Directory of C:\Users\Administrator\Desktop\WORKSPACE\R&D\image_resizer_tool\output_folder
+
+06-06-2025  08:07    <DIR>          .
+06-06-2025  07:56    <DIR>          ..
+06-06-2025  08:07             7,450 resized_pasion.webp
+06-06-2025  08:07           101,380 resized_pasion1.png
+06-06-2025  08:07           337,748 resized_PHO -AUTH0.png
+               3 File(s)        446,578 bytes
+               2 Dir(s)  396,232,581,120 bytes free
+
+C:\Users\Administrator\Desktop\WORKSPACE\R&D\image_resizer_tool\output_folder>

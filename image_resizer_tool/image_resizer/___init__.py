@@ -1,0 +1,1 @@
+from image_resizer.resizer import resize_images
