@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+#author-Bivash Nayak
 import os
 from PIL import Image
 
