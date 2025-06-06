@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+#@author - BIVASH NAYAK
 import argparse
 import sys
 from image_resizer.resizer import resize_images
